@@ -1,4 +1,4 @@
-<h1>Form Page</h1>
+<h1>Pokédex</h1>
 
 <p>Site de uma pokedéx em desenvolvimento.</p>
 <p>Ela possui responsividade e foi criada em HTML e CSS.</p>
