@@ -26,5 +26,5 @@ listaSelecaoPokemons.forEach(pokemon => {
 
         const pokemonSelecionadoNaListagem = document.getElementById(idPokemonSelecionado)
         pokemonSelecionadoNaListagem.classList.add('ativo')
-    });
-});
+    })
+})
