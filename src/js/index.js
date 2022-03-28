@@ -1,7 +1,6 @@
 // criar duas variáveis p trabalhar com os elementos da tela
 
 const listaSelecaoPokemons = document.querySelectorAll('.pokemon')
-const pokemonsCard = document.querySelectorAll('.cartao-pokemon')
 
 listaSelecaoPokemons.forEach(pokemon => {
     // criar evento de click na classe .listagem .pokemon e a função que o click executará
@@ -27,5 +26,5 @@ listaSelecaoPokemons.forEach(pokemon => {
 
         const pokemonSelecionadoNaListagem = document.getElementById(idPokemonSelecionado)
         pokemonSelecionadoNaListagem.classList.add('ativo')
-    })
-})
+    });
+});
