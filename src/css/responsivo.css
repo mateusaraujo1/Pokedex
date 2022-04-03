@@ -56,4 +56,8 @@
     .listagem .pokemon span {
         padding-right: 5px;
     }
+
+    .cartao-pokemon .cartao-informacoes .status ul li, .cartao-pokemon .cartao-informacoes .habilidades ul li{
+        font-size: 15px;
+    }
 }
